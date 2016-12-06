@@ -23,6 +23,8 @@ namespace WpfEntityFmw
         public MainWindow()
         {
             InitializeComponent();
+
+            int TestBen = 5;
         }
     }
 }
